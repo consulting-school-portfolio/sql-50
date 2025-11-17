@@ -11,3 +11,9 @@ Crack SQL interview in 50 questions - [Leetcode](https://leetcode.com/studyplan/
 3. Big Countries
 4. Article Views 1
 5. Invalid Tweets
+
+> Basic Joins
+
+6. Replace Employee ID With The Unique Identifier
+7. Product Sales Analysis 1
+8. Customer Who Visited But Did Not Make Any Transactions
