@@ -1,4 +1,5 @@
 /*
+
 Table: Customer
 
 +-------------+---------+
@@ -45,6 +46,7 @@ Output:
 | Bill |
 | Zack |
 +------+
+
 */
 
 SELECT name
