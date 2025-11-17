@@ -1,10 +1,13 @@
 # SQL 50
 
-Crack SQL interview in 50 questions - Leetcode
+Crack SQL interview in 50 questions - [Leetcode](https://leetcode.com/studyplan/top-sql-50/)
 
 ## Challenges
+
+> Select
 
 1. Recyclable and Low Fat Products
 2. Find Customer Referee
 3. Big Countries
 4. Article Views 1
+5. Invalid Tweets
