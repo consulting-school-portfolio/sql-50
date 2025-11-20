@@ -21,3 +21,4 @@ Crack SQL interview in 50 questions - [Leetcode](https://leetcode.com/studyplan/
 10. Average Time of Process per Machine
 11. Employee Bonus
 12. Students and Examinations
+13. Managers With At Least 5 Direct Reports
